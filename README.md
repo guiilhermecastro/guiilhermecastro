@@ -1,13 +1,19 @@
-# Olá, eu sou o Guilherme Castro! 👋
+# 👋 Olá, eu sou o Guilherme Castro!
 
-🎓 Estudante de programação em busca do primeiro estágio  
-🐍 Focado em **Python**, explorando diferentes áreas da tecnologia  
-🗄️ Estudando **SQL** e boas práticas com **Git/GitHub**  
-🚀 Construindo projetos práticos para aprender e evoluir
+🎓 Estudante de programação focado em desenvolvimento backend  
+🐍 Experiência com **Python** e lógica de programação  
+🗄️ Estudando **SQL**, banco de dados e versionamento com **Git/GitHub**  
+🚀 Desenvolvendo projetos práticos para evoluir como desenvolvedor  
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir continuamente como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,9 +26,9 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [🧮 Calculadora Python](https://github.com/guiilhermecastro/calculadora-python) | Calculadora com menu interativo e validação de erros |
-| [👨‍🎓 Cadastro de Alunos](https://github.com/guiilhermecastro/cadastro-alunos-python) | Sistema de cadastro com menu interativo em Python |
-| [🎮 Jogo de Adivinhação](https://github.com/guiilhermecastro/jogo-adivinhacao-python) | Jogo de adivinhação de números em Python |
+| [🧮 Calculadora Python](https://github.com/guiilhermecastro/calculadora-python) | Aplicação com menu interativo, tratamento de erros e foco em lógica de programação |
+| [👨‍🎓 Cadastro de Alunos](https://github.com/guiilhermecastro/cadastro-alunos-python) | Sistema de cadastro com manipulação de dados e estruturação de código |
+| [🎮 Jogo de Adivinhação](https://github.com/guiilhermecastro/jogo-adivinhacao-python) | Jogo em Python com interação com o usuário e uso de lógica condicional |
 
 ---
 
@@ -35,7 +41,6 @@
 ---
 
 ## 📬 Contato
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiilhermecastro)
 
